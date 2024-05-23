@@ -1,0 +1,10 @@
+C:\Users\ME\source\repos\Notes2\Notes2\bin\Debug\Notes2.exe.config
+C:\Users\ME\source\repos\Notes2\Notes2\bin\Debug\Notes2.exe
+C:\Users\ME\source\repos\Notes2\Notes2\bin\Debug\Notes2.pdb
+C:\Users\ME\source\repos\Notes2\Notes2\obj\Debug\Notes2.csproj.AssemblyReference.cache
+C:\Users\ME\source\repos\Notes2\Notes2\obj\Debug\Notes2.NoteTaker.resources
+C:\Users\ME\source\repos\Notes2\Notes2\obj\Debug\Notes2.Properties.Resources.resources
+C:\Users\ME\source\repos\Notes2\Notes2\obj\Debug\Notes2.csproj.GenerateResource.cache
+C:\Users\ME\source\repos\Notes2\Notes2\obj\Debug\Notes2.csproj.CoreCompileInputs.cache
+C:\Users\ME\source\repos\Notes2\Notes2\obj\Debug\Notes2.exe
+C:\Users\ME\source\repos\Notes2\Notes2\obj\Debug\Notes2.pdb
